@@ -1,0 +1,32 @@
+
+.notificationGroup-wrapper {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-height: 100vh;
+  overflow: hidden;
+}
+
+.notifications-wrapper {
+  width: 20vw;
+  text-align: center;
+  margin: 5vh;
+  margin-right: 0;
+  padding: 2vh;
+}
+
+.notification-info {
+  background: coral;
+}
+
+.notification-success {
+  background: yellowgreen;
+}
+
+.notification-warning {
+  background: gold;
+}
+
+.notification-error {
+  background: red;
+}
